@@ -37,7 +37,11 @@ Following files are avaliable :<br/>
   - [Superhero](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/superhero/bootstrap.min.css)
   - [United](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/united/bootstrap.min.css)
   - [Yeti](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/yeti/bootstrap.min.css)
-  
+
+* JQuery (3.x - 2.x - 1.x 
+  - [JQuery-3.x]()
+  - [JQuery-2.x]()
+  - [JQuery-1.x]()
 
 ## Contributing
 
