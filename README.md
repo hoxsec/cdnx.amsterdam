@@ -39,9 +39,9 @@ Following files are avaliable :<br/>
   - [Yeti](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/yeti/bootstrap.min.css)
 
 * JQuery (3.x - 2.x - 1.x 
-  - [JQuery-3.x]()
-  - [JQuery-2.x]()
-  - [JQuery-1.x]()
+  - [JQuery-3.2.1](https://cdnx.amsterdam/jquery/3.2.1/jquery.min.js)
+  - [JQuery-2.2.4](https://cdnx.amsterdam/jquery/2.2.4/jquery.min.js)
+  - [JQuery-1.12.4](https://cdnx.amsterdam/jquery/1.12.4/jquery.min.js)
 
 ## Contributing
 
