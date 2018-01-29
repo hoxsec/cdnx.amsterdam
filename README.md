@@ -38,11 +38,18 @@ Following files are avaliable :<br/>
   - [United](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/united/bootstrap.min.css)
   - [Yeti](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/yeti/bootstrap.min.css)
 
-* JQuery (3.x - 2.x - 1.x 
+* JQuery (3.x - 2.x - 1.x )
   - [JQuery-3.2.1](https://cdnx.amsterdam/jquery/3.2.1/jquery.min.js)
   - [JQuery-2.2.4](https://cdnx.amsterdam/jquery/2.2.4/jquery.min.js)
   - [JQuery-1.12.4](https://cdnx.amsterdam/jquery/1.12.4/jquery.min.js)
-
+  
+* Skeleton CSS Framework
+  - [Skeleton 2.0.4](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
+  
+* Foundation CSS Framework
+  - [Foundation Complete](https://foundation.zurb.com/sites/download.html/complete)
+  - [Foundation Essential](https://foundation.zurb.com/sites/download.html/essential)
+  
 ## Contributing
 
 Want to fix a bug? If it's something small, just send a pull request. If you
