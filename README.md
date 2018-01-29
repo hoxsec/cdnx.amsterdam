@@ -44,17 +44,24 @@ Following files are avaliable :<br/>
   - [JQuery-1.12.4](https://cdnx.amsterdam/jquery/1.12.4/jquery.min.js)
   
 * Skeleton CSS Framework
-  - [Skeleton 2.0.4](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
+  - [Skeleton 2.0.4](https://cdnx.amsterdam/skeleton/2.0.4/skeleton.css)
   
 * Foundation CSS Framework
-  - [Foundation Complete](https://foundation.zurb.com/sites/download.html/complete)
-  - [Foundation Essential](https://foundation.zurb.com/sites/download.html/essential)
+  - [Foundation Complete](https://cdnx.amsterdam/foundation/complete/)
+  - [Foundation Complete CSS](https://cdnx.amsterdam/foundation/complete/css/)
+  - [Foundation Complete JS](https://cdnx.amsterdam/foundation/complete/js/)
+ 
+  - [Foundation Essential](https://cdnx.amsterdam/foundation/essential/)
+  - [Foundation Essential CSS](https://cdnx.amsterdam/foundation/essential/css/)
+  - [Foundation Essential JS](https://cdnx.amsterdam/foundation/essential/js/)
   
 ## Contributing
 
 Want to fix a bug? If it's something small, just send a pull request. If you
 want to add a new feature or make significant changes, please get in touch and
 ask if I'm interested before doing the work.
+
+Thanks to [@Luuk2016](https://github.com/Luuk2016) for helping out :)
 
 ## License
 
