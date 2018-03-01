@@ -1,5 +1,6 @@
 # cdnx.amsterdam
 
+[![HitCount](http://hits.dwyl.io/hoxsec/cdnx.amsterdam.svg)](http://hits.dwyl.io/hoxsec/cdnx.amsterdam)
 [cdnx.amsterdam](https://cdnx.amsterdam)
 
 Publicly available CDN hosted in Amsterdam, The Nederlands.<br/>
