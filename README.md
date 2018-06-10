@@ -57,7 +57,7 @@ Following files are avaliable :<br/>
   - [Foundation Essential JS](https://cdnx.amsterdam/foundation/essential/js/)
   
  * Bulma CSS Framework
-   - [Bulma CSS](URL)
+   - [Bulma CSS](https://cdnx.amsterdam/bulma/)
 
 
 
