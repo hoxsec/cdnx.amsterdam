@@ -56,6 +56,11 @@ Following files are avaliable :<br/>
   - [Foundation Essential CSS](https://cdnx.amsterdam/foundation/essential/css/)
   - [Foundation Essential JS](https://cdnx.amsterdam/foundation/essential/js/)
   
+ * Bulma CSS Framework
+   - [Bulma CSS](URL)
+
+
+
 ## Contributing
 
 Want to fix a bug? If it's something small, just send a pull request. If you
