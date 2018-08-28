@@ -14,8 +14,9 @@ Following files are avaliable :<br/>
   - [CSS](https://cdnx.amsterdam/bootstrap/4.0.0-beta.2/css/bootstrap.min.css)
   - [JS](https://cdnx.amsterdam/bootstrap/4.0.0-beta.2/js/bootstrap.min.js)
   - [JS-BUNDLE](https://cdnx.amsterdam/bootstrap/4.0.0-beta.2/js/bootstrap.bundle.min.js)
-* Font-Awsome (4.7.0)
-  - [CSS](https://cdnx.amsterdam/font-awesome/4.7.0/css/font-awesome.min.css)
+* Font-Awesome
+  - [4.7.0](https://cdnx.amsterdam/font-awesome/4.7.0/css/font-awesome.min.css)
+  - [5.2.0](https://cdnx.amsterdam/font-awesome/5.2.0/css/font-awesome.min.css)
 * Bootswatch (4.0.0-beta.2) 
   - [Cerulean](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/cerulean/bootstrap.min.css)
   - [Cosmo](https://cdnx.amsterdam/bootswatch/4.0.0-beta.2/cosmo/bootstrap.min.css)
